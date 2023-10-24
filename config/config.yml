@@ -1,0 +1,10 @@
+limits:
+  - type: status
+    duration: 1m
+    count: 2
+  - type: news
+    duration: 24h
+    count: 1
+  - type: marketing
+    duration: 1h
+    count: 3
